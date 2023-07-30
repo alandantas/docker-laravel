@@ -1,5 +1,6 @@
 
-# Setup Docker Para Projetos Laravel (8, 9 ou 10)
+# Setup Docker Para Projetos Laravel (8, 9 ou 10) Extraidos da Academy Especializati
+
 [Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
 
 ### Passo a passo
